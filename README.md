@@ -1,26 +1,19 @@
 ## Running the Project
-
 To run this Exoplanet project locally, follow these steps:
 
 ### 1. **Clone the Repository**
-
-First, clone the repository to your local machine using Git:
 ```bash
 git clone https://github.com/vishalc10/Exoplanet.git
 ```
-
 ### 2. Navigate to the Project Directory
 ```bash
 cd VishalSecondInterview
 ```
-
 ### 3.  Install Prerequisites
-Make sure you have .NET SDK (version 5.0 or later) installed on your machine. You can check if .NET is installed by running:
+Make sure you have .NET SDK
 ```bash
 dotnet --version
 ```
-If you don’t have .NET installed, visit the .NET download page and follow the installation instructions.
-
 ### 4. Restore Project Dependencies
 Before running the application, restore the required NuGet dependencies by running:
 ```bash
