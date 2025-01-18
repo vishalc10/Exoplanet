@@ -15,7 +15,7 @@ Make sure you have .NET SDK
 dotnet --version
 ```
 ### 4. Restore Project Dependencies
-Before running the application, restore the required NuGet dependencies by running:
+Restore the required NuGet dependencies by running:
 ```bash
 dotnet restore
 ```
@@ -33,7 +33,6 @@ dotnet run
 ```bash
 cd ExoplanetTests
 ```
-
 ### 2. Run the tests
 ```bash
 dotnet test
@@ -41,7 +40,6 @@ dotnet test
 This will run all the unit tests in the project and provide feedback on whether any tests have failed.
 
 ## Dockerfile
-
 ### 1. Navigate to the Project Directory
 ```bash
 cd VishalSecondInterview
@@ -50,7 +48,7 @@ cd VishalSecondInterview
 ```bash
 docker build -t exoplanet .
 ```
-###3. Run the container
+### 3. Run the container
 ```bash
 docker run --rm exoplanet
 ```
