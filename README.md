@@ -1,6 +1,6 @@
 ## Running the Project
 
-To run this Exoplanet Data Processor project locally, follow these steps:
+To run this Exoplanet project locally, follow these steps:
 
 ### 1. **Clone the Repository**
 
